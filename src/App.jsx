@@ -10,7 +10,7 @@ function App() {
 
       {/* Navigation Links */}
       <nav>
-        <Link to="/">Home</Link> |{" "}
+        <Link to="/">welcome</Link> |{" "}
         <Link to="/about">About</Link> |{" "}
         <Link to="/contact">Contact</Link>
       </nav>
